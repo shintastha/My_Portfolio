@@ -16,7 +16,7 @@ List<ProjectUtils> myProjectUtils = [
     image: 'assets/projects/ecommerceappui.jpg',
     title: 'Ecommerce App UI',
     subtitle:
-        ' a minimalist eCommerce mobile application using Flutter framework, , providing users with essential shopping functionalities in a streamlined interface.',
+        ' A minimalist eCommerce mobile application using Flutter framework, , providing users with essential shopping functionalities in a streamlined interface.',
   ),
   ProjectUtils(
     image: 'assets/projects/notesapp.jpg',
